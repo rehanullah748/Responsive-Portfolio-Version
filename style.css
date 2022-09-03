@@ -505,9 +505,12 @@ form {
 
   .languages {
     flex-direction: column;
+
   }
 
-  .java-script, .html, .css  {
+  .java-script,
+  .html,
+  .css {
     display: flex;
     margin-left: -150px;
     margin-top: 20px;
@@ -542,4 +545,5 @@ form {
   .css h4 {
     margin-left: 20px;
   }
+
 }
