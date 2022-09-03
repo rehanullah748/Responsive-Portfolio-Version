@@ -1,10 +1,10 @@
-
 @media only screen and (min-width: 768px) {
   body {
     width: 1440px;
   }
+
   a {
-  text-decoration: none;
+    text-decoration: none;
   }
 
   .header-background {
@@ -165,7 +165,7 @@
     flex-grow: 0;
   }
 
-    .ets1 {
+  .ets1 {
     width: 117px;
     height: 24px;
     margin-top: -10px;
@@ -190,7 +190,7 @@
     margin-left: -45px;
   }
 
-    .social-menue2 {
+  .social-menue2 {
     list-style: none;
     position: absolute;
     display: flex;
@@ -200,7 +200,7 @@
     margin-left: -45px;
   }
 
-  .lsss{
+  .lsss {
     padding-right: 20px;
   }
 
@@ -653,6 +653,7 @@
   a {
     text-decoration: none;
   }
+
   nav {
     width: 100% auto;
   }
@@ -777,7 +778,7 @@
     order: 4;
   }
 
-    .social-menue2 {
+  .social-menue2 {
     list-style: none;
     position: absolute;
     display: flex;
