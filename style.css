@@ -1,5 +1,4 @@
 * {
-
   box-sizing: border-box;
 }
 
@@ -20,11 +19,28 @@ ul {
   margin-left: 12px;
 }
 
+.social-contact ul {
+  background: #fff;
+  list-style: none;
+  display: flex;
+  margin-left: -40px;
+}
+
+.icons-container ul {
+  list-style: none;
+  display: flex;
+  margin-left: -42px;
+}
+
 .top-bar nav ul {
   display: flex;
   justify-content: center;
   list-style: none;
   margin-right: 60px;
+}
+
+a {
+  text-decoration: none;
 }
 
 .top-bar ul a {
@@ -76,13 +92,6 @@ ul {
   margin-left: 0px;
 }
 
-.social-contact ul {
-  background: #fff;
-  list-style: none;
-  display: flex;
-  margin-left: -40px;
-}
-
 .social-contact ul a {
   padding: 9px;
   margin-left: -10px;
@@ -102,10 +111,6 @@ ul {
 
 .wrapper-card {
   margin-top: 200px;
-}
-
-a {
-  text-decoration: none;
 }
 
 .tonic {
@@ -207,18 +212,11 @@ a {
 
 .heading h4 {
   color: #344563;
-  
 }
 
 .header {
   font-family: system-ui;
   color: #7f8cff;
-}
-
-.icons-container ul {
-  list-style: none;
-  display: flex;
-  margin-left: -42px;
 }
 
 .social-icons {
@@ -296,8 +294,8 @@ a {
   align-items: center;
   text-align: center;
   letter-spacing: 0.03em;
-  color: #396DF2;
-  border: 1px solid #396DF2;
+  color: #396df2;
+  border: 1px solid #396df2;
   border-radius: 5px;
   margin-top: 10px;
 }
@@ -311,7 +309,7 @@ form {
   height: 846px;
   background-image: url('images/form-bg.png');
   background-size: cover;
-  background-color: #396Df2;
+  background-color: #396df2;
   margin-top: 50px;
   border-top-left-radius: 90px;
   display: flex;
@@ -343,7 +341,7 @@ form {
   height: 102px;
   left: 24px;
   top: 4802px;
-  font-family: 'Poppins';
+  font-family: sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -467,7 +465,7 @@ form {
   }
 
   .service-card {
-    width: 100%
+    width: 100%;
   }
 
   .card-image {
