@@ -471,16 +471,16 @@ form {
     size: 50%;
   }
 
-/*   .form-first-section {
+  .form-first-section {
     width: 100%;
     justify-content: center;
     align-items: center;
   }
-  
+
   .form-first-section h2 {
     color: white;
     margin-left: 550px;
-  } */
+  }
 
   .form-first-section p {
     margin-left: 50px;
