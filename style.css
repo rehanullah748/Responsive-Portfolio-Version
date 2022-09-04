@@ -476,7 +476,8 @@ form {
     justify-content: center;
     align-items: center;
   }
-  .form-first-section h2 {
+  
+  .form-first-section h2 {d
     color: white;
     margin-left: 550px;
   }
